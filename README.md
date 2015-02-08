@@ -1,3 +1,6 @@
 # hello-world
-My first repo
-finishing up now
+
+Hello internet!
+
+Craig here with the first step of his exciting journey to take over the...
+I mean to learn how be be a pro web developer. Ha. Haha...
